@@ -6,7 +6,7 @@
   /noticias
  * **Método**
  `GET`
- - Mostrar única
+ ### Mostrar única
  * **URL**
  /noticia/id
  * **Método**
@@ -22,11 +22,11 @@
   * **Método**
  `POST`
  ## Edição e Remoção ☑
- - Edição
+ ### Edição
   * **URL**
  /noticia/id
   * **Método**
  `PUT`
- - Remoção
+ ### Remoção
  * **Método**
  `DELETE`
