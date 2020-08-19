@@ -11,8 +11,8 @@
  `GET`
  * **URL**
  /noticia/id
-## - Cadastrar Notícias ☑
- ### Cadastro
+## Cadastrar Notícias ☑
+ ### - Cadastro
  - Título (obrigatório) ☑
  - Texto (obrigatório) ☑
  - Autor (obrigatório com chave estrangeira para tabela Autor) | 
@@ -21,13 +21,13 @@
  `POST`
  * **URL**
  /noticias
- ## - Edição e Remoção ☑
- ### Edição
+ ## Edição e Remoção ☑
+ ### - Edição
   * **Método**
  `PUT`
   * **URL**
  /noticia/id
- ### Remoção
+ ### - Remoção
  * **Método**
  `DELETE`
   * **URL**
