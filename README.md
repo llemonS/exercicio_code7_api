@@ -1,17 +1,17 @@
 # Exercício - Desenvolvimento de API 
  Criar uma API para um portal de notícias com cadastro, pesquisa e visualização de notícias utilizando mongodb.
  ## Consultar Notícias ☑
- ### Listar todas
+ ### - Listar todas
  * **Método**
  `GET`
  * **URL**
   /noticias
- ### Mostrar única
+ ### - Mostrar única
  * **Método**
  `GET`
  * **URL**
  /noticia/id
-## Cadastrar Notícias ☑
+## - Cadastrar Notícias ☑
  ### Cadastro
  - Título (obrigatório) ☑
  - Texto (obrigatório) ☑
@@ -21,7 +21,7 @@
  `POST`
  * **URL**
  /noticias
- ## Edição e Remoção ☑
+ ## - Edição e Remoção ☑
  ### Edição
   * **Método**
  `PUT`
