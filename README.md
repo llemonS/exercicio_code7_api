@@ -11,7 +11,7 @@
  `GET`
  * **URL**
  /noticia/id
-## Cadastrar Notícias ☑
+## Cadastrar Notícias
  ### - Cadastro
  - Título (obrigatório)
  - Texto (obrigatório)
