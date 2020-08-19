@@ -13,8 +13,8 @@
  /noticia/id
 ## Cadastrar Notícias ☑
  ### - Cadastro
- - Título (obrigatório) ☑
- - Texto (obrigatório) ☑
+ - Título (obrigatório)
+ - Texto (obrigatório)
  - Autor (obrigatório com chave estrangeira para tabela Autor) | 
      pendente(dúvidas com relação ao uso de NoSQL e uso de chave estrangeira).
   * **Método**
