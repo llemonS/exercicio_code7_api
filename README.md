@@ -1,5 +1,5 @@
 # Exercício - Desenvolvimento de API 
- Criar uma API para um portal de notícias para cadastro, pesquisa e visualização de notícias utilizando mongodb.
+ Criar uma API para um portal de notícias com cadastro, pesquisa e visualização de notícias utilizando mongodb.
  ## Cadastro e Pesquisa:
  - Título (obrigatório) ☑
  - Texto(obrigatório) ☑
