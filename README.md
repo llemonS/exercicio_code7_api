@@ -1,5 +1,15 @@
 # Exercício - Desenvolvimento de API 
  Criar uma API para um portal de notícias com cadastro, pesquisa e visualização de notícias utilizando mongodb.
+ ## Instalação:
+ ### MongoDB
+ - Instalar mongodb e mante-lo ativo
+  `systemctl start mongodb`
+ ### Python 3.8.3
+ - Utilizar pip3 para instalação dos pacotes necessarios
+  `pip3 install -r requirements.txt`
+ ### Arquivo principal
+ `python3 server_api.py`
+ 
  ## Consultar Notícias ☑
  ### - Listar todas
  * **Método**
